@@ -8,7 +8,7 @@ Your contributions help make **Myra** better for everyone.
 ## 🧰 How to Contribute
 
 ### 1. Fork the Repository
-Click the "Fork" button at the top of the [repo](https://github.com/your-username/myra-client) and clone it:
+Click the "Fork" button at the top of the [repo](https://github.com/MyraPlatform/client) and clone it:
 
 ```bash
 git clone https://github.com/your-username/myra-client.git
